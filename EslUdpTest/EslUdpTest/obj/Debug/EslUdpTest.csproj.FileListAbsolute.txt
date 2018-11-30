@@ -1,0 +1,105 @@
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe.config
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.pdb
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\bin\Debug\zxing.dll
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csprojResolveAssemblyReference.cache
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Form1.resources
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Properties.Resources.resources
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.GenerateResource.Cache
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.exe
+D:\EPaperParser\電子貨價標籤系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe.config
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\bin\Debug\zxing.dll
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csprojResolveAssemblyReference.cache
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Form1.resources
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Properties.Resources.resources
+D:\EPaperParser\新版ESL系統\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.GenerateResource.Cache
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe.config
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\bin\Debug\zxing.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csprojResolveAssemblyReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Properties.Resources.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.GenerateResource.Cache
+D:\EPaperParser\新版ESL系統\EslTCPTest\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Form1.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe.config
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\bin\Debug\zxing.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csprojResolveAssemblyReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.ResolveComReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Form1.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Properties.Resources.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.GenerateResource.Cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe.config
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\bin\Debug\zxing.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.ResolveComReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Form1.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Properties.Resources.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.GenerateResource.Cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 複製\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csprojResolveAssemblyReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe.config
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.ResolveComReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\bin\Debug\zxing.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csprojResolveAssemblyReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Form1.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Properties.Resources.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.GenerateResource.Cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe.config
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.ResolveComReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\bin\Debug\zxing.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csprojResolveAssemblyReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Form1.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Properties.Resources.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - ListView _0202\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.GenerateResource.Cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe.config
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\zxing.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.ResolveComReference.cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Form1.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Properties.Resources.resources
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.GenerateResource.Cache
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.exe
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.pdb
+D:\EPaperParser\新版ESL系統\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csprojResolveAssemblyReference.cache
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe.config
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.ResolveComReference.cache
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.exe
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.pdb
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.exe
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\EslUdpTest.pdb
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\zxing.dll
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\bin\Debug\zxing.presentation.dll
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csprojResolveAssemblyReference.cache
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Form1.resources
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.Properties.Resources.resources
+C:\Users\abby\Desktop\ESL\EslTCPTest_Multi - 2_9List _0321\EslUdpTest\EslUdpTest\obj\Debug\EslUdpTest.csproj.GenerateResource.Cache
